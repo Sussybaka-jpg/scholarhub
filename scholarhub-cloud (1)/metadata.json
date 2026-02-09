@@ -1,0 +1,8 @@
+{
+  "name": "ScholarHub Cloud",
+  "description": "Collaborative academic platform with central Google Drive integration for sparshimon@gmail.com.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
